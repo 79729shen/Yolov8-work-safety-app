@@ -1,7 +1,7 @@
-# YOLOv11 目標檢測與追蹤
+# YOLOv8 目標檢測與追蹤
 
 ## 簡介
-歡迎使用 YOLOv11 目標檢測與追蹤應用！該工具允許您在各種來源上執行目標檢測與追蹤，包括圖像、影片、YouTube 、RTSP 和Webcam。
+歡迎使用 YOLOv8 目標檢測與追蹤應用！該工具允許您在各種來源上執行目標檢測與追蹤，包括圖像、影片、YouTube 、RTSP 和Webcam。
 
 ## 入門指南
 
@@ -26,7 +26,7 @@
 - 選擇 "Video" 選項以分析影片文件。應用程序將處理每一幀以檢測和跟蹤對象。
 
 ### 3. YouTube 
-- 如果選擇 "YouTube"，請輸入 YouTube 影片的 URL。應用程序將獲取影片並執行目標檢測和跟蹤。
+- 如果選擇 "YouTube"，請輸入 YouTube 影片的 URL。應用程序將獲取影片並執行目標檢測和追蹤。
 
 ### 4. RTSP 
 - 對於 RTSP 流，請確保在設置中配置正確的 RTSP URL。應用程序將播放流並實時應用目標檢測。
@@ -47,5 +47,5 @@ conda activate your_environment_name
 streamlit run app.py
 ```
 
-## 盡情探索並使用 YOLOv11 進行檢測與追蹤！🚀
+## 盡情探索並使用 YOLOv8 進行檢測與追蹤！🚀
 
